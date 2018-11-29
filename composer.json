@@ -9,9 +9,6 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "require-dev" : {
-        "oomphinc/composer-installers-extender": "^1.1"
-    },
     "autoload": {
         "psr-4": {
             "Youwen\\LazyRPC\\": "/src"
