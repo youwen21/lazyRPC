@@ -10,8 +10,7 @@
     "minimum-stability": "dev",
     "require": {},
     "require-dev" : {
-        "composer/installers": "~1.0",
-        "oomphinc/composer-installers-extender"
+        "oomphinc/composer-installers-extender": "^1.1"
     },
     "autoload": {
         "psr-4": {
